@@ -5,7 +5,7 @@ import arrow_icon from "../Assets/arrow.png"
 import hero_image from "../Assets/hero_image.png"
 
 export const Hero = () => {
-    console.log('Rendering Hero component'); // this is not rendering, meaning that it could be failing in shop?`or app?
+    console.log('Rendering Hero component'); // this is not rendering, meaning that it could be failing in shop? or app? 
   return (
     <div className="hero">
       <div className="hero-left">
